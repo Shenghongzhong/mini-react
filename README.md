@@ -1,14 +1,3 @@
----
-created: 2024-03-22
-tags: #mini-react
----
-Created:: `$=dv.current().file.ctime`
-Updated::  `$= dv.current().file.mtime`
-
-## Note
-
-src: https://learn.cuixueshe.com/p/t_pc/course_pc_detail/video/v_65f2f0ffe4b023c0bea5e68f?product_id=course_2dgCEPYIJNG8cs78um4HjzrHY0a
-
 
 #### Official React API
 
